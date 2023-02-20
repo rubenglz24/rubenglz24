@@ -1,6 +1,14 @@
 # 💫 About Me:
 ### Buenas Tardes mis pa´s<br><br>- 🔭 En proceso de terminar la carrera ...<br>- :muscle: Tratando de ser el Inge Musculoso de la carrera ...<br>-  :fire: Le se a C#.......<br>- :anger: Las bases de datos no son mi fuerte.....<br>- :alien: Pero me gusta la programacion WEB......
 
+|                         | LUNES  | MARTES | MIERCOLES | JUEVES |
+|-------------------------|--------|--------|-----------|--------|
+| PROGRAMACION WEB        | 2-3 PM | 2-3 PM | 2-3 PM    | 2-3 PM |
+| ING DEL CONOCIMIENTO    | 3-4 PM | 3-4 PM | 3-4 PM    | 3-4 PM |
+| LIBRE                   | 4-5 PM | 4-5 PM | 4-5 PM    | 4-5 PM |
+| LIBRE                   | 5-6 PM | 5-6 PM | 5-6 PM    | 5-6 PM |
+| NEGOCIOS ELECTRONICOS 2 | 6-7 PM | 6-7 PM | 6-7 PM    | 6-7 PM |
+| SISTEMAS OPERATIVOS     | 7-8 PM | 7-8 PM | 7-8 PM    |        |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rubenglz_1) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rubenglz24) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rubencitopapu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rubenraulgonza1) 
